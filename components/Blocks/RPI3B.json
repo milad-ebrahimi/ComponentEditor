@@ -6,8 +6,8 @@
   "blockId": "200000",
   "app": {
     "appName": "Raspberry Pi 3 - Model B - ARMv8 with 1G RAM",
-    //"image": "http://res.cloudinary.com/circuito/image/upload/qocb8ymquqhzrtm7hjoe",
-    "image": "https://m.media-amazon.com/images/I/912ja-jKOfL._AC_SL1500_.jpg",
+    "image": "http://res.cloudinary.com/circuito/image/upload/qocb8ymquqhzrtm7hjoe",
+    //"image": "https://m.media-amazon.com/images/I/912ja-jKOfL._AC_SL1500_.jpg",
     "numericName": "",
     "shortName": "Raspberry Pi 3",
     "indicators": {
